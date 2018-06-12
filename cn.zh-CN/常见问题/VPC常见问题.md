@@ -7,7 +7,7 @@
 
 ## 2. ECS实例是否可以绑定多个网卡？ {#section_fht_lg4_tdb .section}
 
-经典网络类型的ECS包括两张网卡，分别是公网网卡和私网网卡。VPC类型的ECS目前只支持一张私网网卡。
+经典网络类型的ECS包括两张网卡，分别是公网网卡和私网网卡。VPC类型的ECS目前默认只支持一张私网网卡，部分实例规格支持多张私网网卡。详情请参考[弹性网卡](https://help.aliyun.com/document_detail/58496.html?spm=5176.11065259.1996646101.searchclickresult.3ce81242nhBNpS)。
 
 ## 3. 每个专有网络可以有多个路由器？ {#section_vl4_ng4_tdb .section}
 
